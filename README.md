@@ -20,3 +20,10 @@
 
 ## psuedo code
 - Describing code in comments for non technical readers
+
+- task:
+  - create 3 variables to get user data
+  - name, dob, age
+  - display all the information on command line
+  - print variable types
+  
