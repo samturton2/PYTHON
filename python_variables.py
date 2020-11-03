@@ -31,4 +31,3 @@ print(type(age))
 input()
 # display data on command line
 print()
-# save data in csv file
