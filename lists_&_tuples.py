@@ -42,3 +42,11 @@ print(mixed_shopping_list)
 
 # Tuples
 # Tuples are IMMUTABLE lists
+# Use case  NI number, DOB, place of birth
+
+# Syntax: we use () to declare a Tuple
+
+short_list = ("paracetamol", "eggs", "supermalt")
+print(type(short_list))
+
+# short_list[1] = "fruits" # throws up error
